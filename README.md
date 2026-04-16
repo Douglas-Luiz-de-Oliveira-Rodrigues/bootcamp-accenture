@@ -98,3 +98,18 @@ Esses recursos permitem estruturar sistemas mais organizados, reutilizáveis e e
 - **Encapsulamento**: proteção e controle de acesso aos dados
 - **Polimorfismo**: flexibilidade na utilização de métodos
 - **Classes Abstratas**: definição de estruturas base para sistemas complexos
+
+---
+
+## Etapa 5 - Fundamentos de Banco de Dados e SQL
+
+Nesta etapa do bootcamp, aprofundei meus conhecimentos em **bancos de dados relacionais** e no uso de **SQL** para consultas.  
+O objetivo foi entender conceitos fundamentais de modelagem e manipulação de dados, além de explorar como ferramentas modernas como o Microsoft Copilot podem apoiar na escrita de consultas.
+
+## Cursos concluídos
+- Introdução a Banco de Dados Relacionais (3h)  
+- Utilizando Microsoft Copilot para escrever consultas SQL (2h)
+
+## Observação
+Esta etapa foi dedicada exclusivamente a estudos e não possui desafio de código ou projeto prático.  
+O aprendizado aqui serve como base sólida para aplicar SQL em cenários futuros de análise de dados e integração com inteligência artificial.
