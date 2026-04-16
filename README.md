@@ -15,7 +15,7 @@ Concluí os seguintes cursos introdutórios:
 ### Desafio de Projeto
 
 - **Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM (4h)**  
-[Veja o desafio de código aqui](https://github.com/Douglas-Luiz-de-Oliveira-Rodrigues/miniguia-notebooklm-analise-dados)
+[Veja o desafio de projeto aqui](https://github.com/Douglas-Luiz-de-Oliveira-Rodrigues/miniguia-notebooklm-analise-dados)
 
 #### Tecnologias e Ferramentas Utilizadas
 
@@ -89,7 +89,7 @@ Esses recursos permitem estruturar sistemas mais organizados, reutilizáveis e e
 
 ## Desafio de Código
 - **Aplicando Princípios de Reutilização com Herança e Polimorfismo (1h)**  
-[Veja o desafio de código aqui]()
+[Veja o desafio de código aqui](https://github.com/Douglas-Luiz-de-Oliveira-Rodrigues/aplicando-principios-de-reutilizacao-com-heranca-e-polimorfismo)
 
 ### Tecnologias e Conceitos Utilizados
 - **Python**: implementação da lógica
