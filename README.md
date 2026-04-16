@@ -26,3 +26,27 @@ Concluí os seguintes cursos introdutórios:
 - **Curadoria de Fontes**: seleção de materiais técnicos (PDFs, tutoriais, artigos)
 
 ---
+
+# Etapa 2 - Fundamentos Essenciais de Python para Análise de Dados
+
+Nesta etapa do bootcamp, aprofundei meus conhecimentos em Python aplicados à análise de dados.  
+Os cursos abordaram desde os primeiros passos na linguagem até estruturas condicionais, operadores e manipulação de strings.
+
+## Cursos concluídos
+- Ambiente de Desenvolvimento e Primeiros Passos com Python (1h)
+- Conhecendo a Linguagem de Programação Python (2h)
+- Tipos de Operadores com Python (2h)
+- Estruturas Condicionais e de Repetição em Python (2h)
+- Manipulando Strings com Python (2h)
+
+## Desafio de Código
+- **Aplicando Decisões e Repetições na Prática (1h)**  
+[Veja o desafio de código aqui](https://github.com/Douglas-Luiz-de-Oliveira-Rodrigues/aplicando-decisoes-e-repeticoes-na-pratica)
+
+### Tecnologias e Conceitos Utilizados
+- **Python**: implementação da lógica
+- **Operadores aritméticos e relacionais**
+- **Estruturas condicionais (if/elif/else)**
+- **Entrada e saída padrão**
+
+---
