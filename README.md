@@ -3,7 +3,7 @@
 Este repositório reúne minha jornada no bootcamp de Inteligência Artificial e Desenvolvimento.  
 Aqui você encontra a trilha de aprendizado com links para projetos e exercícios práticos, organizados em pastas específicas.
 
-## Etapa 1 - Onboarding + IA
+# Etapa 1 - Onboarding + IA
 
 Concluí os seguintes cursos introdutórios:
 - Boas-vindas ao Accenture - Python para Análise e Automação de Dados (1h)
@@ -27,7 +27,7 @@ Concluí os seguintes cursos introdutórios:
 
 ---
 
-## Etapa 2 - Fundamentos Essenciais de Python para Análise de Dados
+# Etapa 2 - Fundamentos Essenciais de Python para Análise de Dados
 
 Nesta etapa do bootcamp, aprofundei meus conhecimentos em Python aplicados à análise de dados.  
 Os cursos abordaram desde os primeiros passos na linguagem até estruturas condicionais, operadores e manipulação de strings.
@@ -51,7 +51,7 @@ Os cursos abordaram desde os primeiros passos na linguagem até estruturas condi
 
 ---
 
-## Etapa 3 - Manipulação de Dados com Estruturas Fundamentais em Python
+# Etapa 3 - Manipulação de Dados com Estruturas Fundamentais em Python
 
 Nesta etapa do bootcamp, aprofundei meus conhecimentos em estruturas de dados fundamentais da linguagem Python.  
 Os cursos abordaram listas, tuplas, conjuntos, dicionários e funções, preparando a base para manipulação eficiente de dados.
@@ -75,7 +75,7 @@ Os cursos abordaram listas, tuplas, conjuntos, dicionários e funções, prepara
 
 ---
 
-## Etapa 4 - Programação Orientada a Objetos Aplicada à Análise de Dados
+# Etapa 4 - Programação Orientada a Objetos Aplicada à Análise de Dados
 
 Nesta etapa do bootcamp, aprofundei meus conhecimentos em **POO com Python**, aprendendo conceitos fundamentais como herança, encapsulamento, polimorfismo e classes abstratas.  
 Esses recursos permitem estruturar sistemas mais organizados, reutilizáveis e escaláveis.
@@ -101,7 +101,7 @@ Esses recursos permitem estruturar sistemas mais organizados, reutilizáveis e e
 
 ---
 
-## Etapa 5 - Fundamentos de Banco de Dados e SQL
+# Etapa 5 - Fundamentos de Banco de Dados e SQL
 
 Nesta etapa do bootcamp, aprofundei meus conhecimentos em **bancos de dados relacionais** e no uso de **SQL** para consultas.  
 O objetivo foi entender conceitos fundamentais de modelagem e manipulação de dados, além de explorar como ferramentas modernas como o Microsoft Copilot podem apoiar na escrita de consultas.
@@ -116,7 +116,7 @@ O aprendizado aqui serve como base sólida para aplicar SQL em cenários futuros
 
 ---
 
-## Etapa 6 - Preparação de Dados com Python: Bibliotecas Essenciais
+# Etapa 6 - Preparação de Dados com Python: Bibliotecas Essenciais
 
 Nesta etapa do bootcamp, aprofundei meus conhecimentos em **preparação e limpeza de dados com Python**, explorando bibliotecas essenciais e boas práticas para manipulação de arquivos, tratamento de exceções e depuração de código.  
 O objetivo foi consolidar a base para trabalhar com dados reais de forma eficiente e confiável.
