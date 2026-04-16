@@ -65,7 +65,7 @@ Os cursos abordaram listas, tuplas, conjuntos, dicionários e funções, prepara
 
 ## Desafio de Código
 - **Construindo Soluções com Funções em Python (1h)**  
-[Veja o desafio de código aqui]()
+[Veja o desafio de código aqui](https://github.com/Douglas-Luiz-de-Oliveira-Rodrigues/construindo-solucoes-com-funcoes-em-python)
 
 ### Tecnologias e Conceitos Utilizados
 - **Python**: implementação da lógica
