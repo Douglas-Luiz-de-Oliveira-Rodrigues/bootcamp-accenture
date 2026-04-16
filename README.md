@@ -1,4 +1,4 @@
-# Bootcamp: Onboarding + IA para Acelerar o Desenvolvimento
+# Bootcamp: Accenture - Python para Análise e Automação de Dados
 
 Este repositório reúne minha jornada no bootcamp de Inteligência Artificial e Desenvolvimento.  
 Aqui você encontra a trilha de aprendizado com links para projetos e exercícios práticos, organizados em pastas específicas.
