@@ -113,3 +113,22 @@ O objetivo foi entender conceitos fundamentais de modelagem e manipulação de d
 ## Observação
 Esta etapa foi dedicada exclusivamente a estudos e não possui desafio de código ou projeto prático.  
 O aprendizado aqui serve como base sólida para aplicar SQL em cenários futuros de análise de dados e integração com inteligência artificial.
+
+---
+
+## Etapa 6 - Preparação de Dados com Python: Bibliotecas Essenciais
+
+Nesta etapa do bootcamp, aprofundei meus conhecimentos em **preparação e limpeza de dados com Python**, explorando bibliotecas essenciais e boas práticas para manipulação de arquivos, tratamento de exceções e depuração de código.  
+O objetivo foi consolidar a base para trabalhar com dados reais de forma eficiente e confiável.
+
+## Cursos concluídos
+- Trabalhando com Arquivos e Dados Externos em Python (1h)  
+- Tratamento de Exceções e Depuração de Código em Python (1h)  
+- Bibliotecas Essenciais de Python para Análise de Dados (1h)  
+- Processamento e Limpeza de Dados em Python (1h)  
+
+## Observação
+Esta etapa foi dedicada exclusivamente a estudos e não possui desafio de código ou projeto prático.  
+O aprendizado aqui fortalece a capacidade de preparar dados para análises mais avançadas, garantindo qualidade e consistência.
+
+---
