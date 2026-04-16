@@ -27,7 +27,7 @@ Concluí os seguintes cursos introdutórios:
 
 ---
 
-# Etapa 2 - Fundamentos Essenciais de Python para Análise de Dados
+## Etapa 2 - Fundamentos Essenciais de Python para Análise de Dados
 
 Nesta etapa do bootcamp, aprofundei meus conhecimentos em Python aplicados à análise de dados.  
 Os cursos abordaram desde os primeiros passos na linguagem até estruturas condicionais, operadores e manipulação de strings.
