@@ -50,3 +50,27 @@ Os cursos abordaram desde os primeiros passos na linguagem até estruturas condi
 - **Entrada e saída padrão**
 
 ---
+
+## Etapa 3 - Manipulação de Dados com Estruturas Fundamentais em Python
+
+Nesta etapa do bootcamp, aprofundei meus conhecimentos em estruturas de dados fundamentais da linguagem Python.  
+Os cursos abordaram listas, tuplas, conjuntos, dicionários e funções, preparando a base para manipulação eficiente de dados.
+
+## Cursos concluídos
+- Trabalhando com Listas em Python (1h)
+- Conhecendo Tuplas em Python (1h)
+- Explorando Conjuntos em Python (1h)
+- Aprendendo a Utilizar Dicionários em Python (1h)
+- Dominando Funções Python (1h)
+
+## Desafio de Código
+- **Construindo Soluções com Funções em Python (1h)**  
+[Veja o desafio de código aqui]()
+
+### Tecnologias e Conceitos Utilizados
+- **Python**: implementação da lógica
+- **Listas, Tuplas, Conjuntos e Dicionários**: estruturas fundamentais para manipulação de dados
+- **Funções**: modularização e reutilização de código
+- **Entrada e saída padrão**
+
+---
