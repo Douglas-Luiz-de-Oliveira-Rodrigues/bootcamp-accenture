@@ -74,3 +74,27 @@ Os cursos abordaram listas, tuplas, conjuntos, dicionários e funções, prepara
 - **Entrada e saída padrão**
 
 ---
+
+## Etapa 4 - Programação Orientada a Objetos Aplicada à Análise de Dados
+
+Nesta etapa do bootcamp, aprofundei meus conhecimentos em **POO com Python**, aprendendo conceitos fundamentais como herança, encapsulamento, polimorfismo e classes abstratas.  
+Esses recursos permitem estruturar sistemas mais organizados, reutilizáveis e escaláveis.
+
+## Cursos concluídos
+- Introdução à Programação Orientada a Objetos (POO) com Python (1h)
+- Aprendendo o Conceito de Herança com Python (1h)
+- Aplicando Encapsulamento em Python (1h)
+- Conhecendo Polimorfismo em Python (1h)
+- Interfaces e Classes Abstratas com Python (1h)
+
+## Desafio de Código
+- **Aplicando Princípios de Reutilização com Herança e Polimorfismo (1h)**  
+[Veja o desafio de código aqui]()
+
+### Tecnologias e Conceitos Utilizados
+- **Python**: implementação da lógica
+- **POO (Programação Orientada a Objetos)**: organização e reutilização de código
+- **Herança**: reaproveitamento de atributos e métodos
+- **Encapsulamento**: proteção e controle de acesso aos dados
+- **Polimorfismo**: flexibilidade na utilização de métodos
+- **Classes Abstratas**: definição de estruturas base para sistemas complexos
