@@ -132,3 +132,25 @@ Esta etapa foi dedicada exclusivamente a estudos e não possui desafio de códig
 O aprendizado aqui fortalece a capacidade de preparar dados para análises mais avançadas, garantindo qualidade e consistência.
 
 ---
+
+# Etapa 7 - Python Aplicado à Análise: Automação de Rotinas e Visualização
+
+Nesta etapa do bootcamp, aprofundei meus conhecimentos em **automação de processos, visualização avançada de dados e boas práticas de código em Python**.  
+O objetivo foi aplicar Python em cenários reais de análise, garantindo eficiência, clareza e capacidade de detectar padrões e anomalias.
+
+## Cursos concluídos
+- Automação de Processos e Análises com Python (1h)  
+- Visualização Avançada de Dados com Python (1h)  
+- Boas Práticas, Testes e Otimização de Código em Python (1h)  
+
+## Desafio de Projeto
+- **Detecção de Anomalias em Transações em Python (1h)**  
+[Veja o projeto aqui](https://github.com/Douglas-Luiz-de-Oliveira-Rodrigues/deteccao-de-fraudes-em-transacoes)
+
+### Tecnologias e Conceitos Utilizados
+- **Python**: automação e análise de dados
+- **Visualização de dados**: gráficos e dashboards para insights
+- **Boas práticas e testes**: código limpo e otimizado
+- **Detecção de anomalias**: aplicação prática em transações financeiras
+
+---
